@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-default-application-manager"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS default-application-manager component - deployment"
+
+[lib]
+name = "default_application_manager"
+path = "src/lib.rs"
