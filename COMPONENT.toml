@@ -3,7 +3,7 @@ name = "SigmaOS-default-application-manager"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "default-application-manager component"
+description = "Default Application Manager"
 upstream = []
 
 [contract]
